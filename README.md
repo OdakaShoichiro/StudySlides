@@ -4,4 +4,4 @@ Slide resources for study groups.
 
 ## Index
 
-Coming soon...
+1. Git
